@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shreekarg30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XuX5P8qroBEB5mu3PZXhgq9mBmCtGhl5/view](https://drive.google.com/file/d/1XuX5P8qroBEB5mu3PZXhgq9mBmCtGhl5/view)
+- 📄 Know about my experiences [https://bit.ly/resume-shrikargaikar](https://bit.ly/resume-shrikargaikar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
