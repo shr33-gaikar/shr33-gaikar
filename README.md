@@ -59,15 +59,24 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shr33-gaikar&show_icons=true&locale=en&layout=compact" alt="shr33-gaikar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shr33-gaikar&show_icons=true&locale=en" alt="shr33-gaikar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shr33-gaikar&" alt="shr33-gaikar" /></p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=shr33-gaikar&api_domain=wakapi.dev&bg_color=00000000&title_color=ff6f00&icon_color=ff6f00&text_color=ff6f00&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakatime Week Stats"/>
+  </a>
 </div>
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=shr33-gaikar&theme=default&background=00000000&border=f2f2f2&stroke=6c6c6c&ring=ff6f00&fire=ff6f00&currStreakNum=ff6f00&sideNums=ff6f00&currStreakLabel=ff6f00&sideLabels=ff6f00&dates=ff6f00&excludeDaysLabel=ff6f00"        alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shr33-gaikar&show_icons=true&title_color=ff6f00&icon_color=ff6f00&text_color=585858&bg_color=00000000" alt="readme stats"/>
+  
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shr33-gaikar&layout=compact&title_color=ff6f00&text_color=585858&bg_color=00000000" alt="top langs"/>
+</div>
+
+<br>
 
 
 <h2 align="center">🙋‍♂️ Support 🙋‍♂️</h2>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shrikar.gaikar)
