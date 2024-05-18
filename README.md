@@ -67,14 +67,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shr33-gaikar&" alt="shr33-gaikar" /></p>
 </div>
 
-<br/><br/>
 
-<hr/>
+<h2 align="center">🙋‍♂️ Support 🙋‍♂️</h2>
 
-<br/>
-
-<div align="center">
-<a href='https://buymeacoffee.com/shrikar.gaikar' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
