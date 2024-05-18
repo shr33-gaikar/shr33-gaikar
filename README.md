@@ -208,7 +208,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=shr33-gaikar&api_domain=wakapi.dev&bg_color=00000000&title_color=ff6f00&icon_color=ff6f00&text_color=ff6f00&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakatime Week Stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=shreekarg30&api_domain=wakapi.dev&bg_color=00000000&title_color=ff6f00&icon_color=ff6f00&text_color=ff6f00&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakatime Week Stats"/>
   </a>
 </div>
 
