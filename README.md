@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shr33-gaikar.shr33-gaikar" />
+c<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shr33-gaikar.shr33-gaikar" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shrikar+Gaikar!;" />
@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/shr33-gaikar/shr33-gaikar/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **AI can do almost anything, except solve a CAPTCHA without help**
 
  </div>
  
