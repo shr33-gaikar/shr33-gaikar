@@ -10,7 +10,7 @@ c<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shr33-gai
 
 <div align="center">
  
- 🔭 I’m currently working on **Android App**
+ 🔭 I’m currently working on **Android Apps**
  
  🌱 I’m currently learning **Cloud Computing**
 
