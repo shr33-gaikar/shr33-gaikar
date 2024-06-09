@@ -10,13 +10,13 @@ c<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shr33-gai
 
 <div align="center">
  
- 🔭 I’m currently working on **Android App**
+ 🔭 I’m currently working on **Android Apps**
  
  🌱 I’m currently learning **Cloud Computing**
 
 💬 Ask me about **Macine Learning, App Development... or anything [here](https://github.com/shr33-gaikar/shr33-gaikar/issues)**
 
-⚡ Fun fact - **AI can do almost anything, except solve a CAPTCHAa without help**
+⚡ Fun fact - **AI can do almost anything, except solve a CAPTCHA without help**
 
  </div>
  
